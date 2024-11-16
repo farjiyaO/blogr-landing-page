@@ -1,0 +1,6 @@
+/* mobile first approach */
+
+.hero-image{
+    background-image: url("./images/bg-pattern-intro-mobile.svg");
+    background-repeat: repeat-x;
+}
